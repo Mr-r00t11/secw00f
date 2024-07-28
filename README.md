@@ -55,7 +55,7 @@ Run the following command to analyze the URLs:
 
 `python secw00f.py -l urls.txt`
 
-![[Pasted image 20240727183651.png]]()
+![[Pasted image 20240727183651.png]](https://raw.githubusercontent.com/Mr-r00t11/secw00f/main/img/Pasted%20image%2020240727183651.png)
 
 The tool will print the results in the console and also save them to a file named `wafw00f_results.txt`.
 
