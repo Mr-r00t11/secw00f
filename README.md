@@ -26,7 +26,7 @@ You can install the required libraries with the following command:
 
 1. Clone this repository:
 
-`git clone https://github.com/yourusername/secw00f.git` 
+`git clone https://github.com/yourusername/secw00f.git`
 `cd secw00f`
 
 2. Ensure you have the dependencies installed:
